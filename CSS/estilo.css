@@ -1,7 +1,8 @@
-body{
-	background-image:linear-gradient(#191970, #363636);
-	background-repeat:no-repeat;
-	background-position:center;
-	background-size:cover;
-	margin-bottom:10%;
+canvas{
+    border:4px solid #000;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: #191970;
+
 }
