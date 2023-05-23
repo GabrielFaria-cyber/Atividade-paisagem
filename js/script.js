@@ -167,5 +167,14 @@ CTX.fillStyle='#797BB9';
 CTX.fill();
 CTX.stroke();
 
+//Pedrinhas
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(70, 535, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
+
+
 
 
