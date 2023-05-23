@@ -58,3 +58,20 @@ CTX.fillStyle='#6B8E23';
 CTX.fill();
 CTX.stroke();
 
+//Nuvem
+CTX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.moveTo(360, 100);
+CTX.lineTo(250, 100);
+CTX.fill();
+CTX.stroke();
+
+//Nuvem
+CTX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.moveTo(400, 100);
+CTX.lineTo(800, 100);
+CTX.fill();
+CTX.stroke();
+
+
