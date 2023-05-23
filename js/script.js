@@ -88,18 +88,60 @@ CTX.fill();
 CTX.stroke();
 
 //Nuvem2
-CTX.strokeStyle='#0c003b';
+CTX.strokeStyle='#797BB9';
 CTX.beginPath();
-CTX.moveTo(600, 130);
-CTX.lineTo(700, 130);
+CTX.moveTo(525, 130);
+CTX.lineTo(625, 130);
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#797BB9';
+CTX.beginPath();
+CTX.arc(540, 130, 15, 0,  Math.PI, true);
+CTX.fillStyle='#797BB9';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#797BB9';
+CTX.beginPath();
+CTX.arc(575, 130, 20, 0,  Math.PI, true);
+CTX.fillStyle='#797BB9';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#797BB9';
+CTX.beginPath();
+CTX.arc(610, 130, 15, 0,  Math.PI, true);
+CTX.fillStyle='#797BB9';
 CTX.fill();
 CTX.stroke();
 
 //Nuvem3
-CTX.strokeStyle='#0c003b';
+CTX.strokeStyle='#797BB9';
 CTX.beginPath();
 CTX.moveTo(900, 90);
 CTX.lineTo(775, 90);
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#797BB9';
+CTX.beginPath();
+CTX.arc(885, 90, 15, 0,  Math.PI, true);
+CTX.fillStyle='#797BB9';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#797BB9';
+CTX.beginPath();
+CTX.arc(848, 90, 20, 0,  Math.PI, true);
+CTX.fillStyle='#797BB9';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#797BB9';
+CTX.beginPath();
+CTX.arc(801, 90, 25, 0,  Math.PI, true);
+CTX.fillStyle='#797BB9';
 CTX.fill();
 CTX.stroke();
 
