@@ -66,12 +66,44 @@ CTX.lineTo(250, 100);
 CTX.fill();
 CTX.stroke();
 
-//Nuvem
+
+//Nuvem2
 CTX.strokeStyle='#0c003b';
 CTX.beginPath();
-CTX.moveTo(400, 100);
-CTX.lineTo(800, 100);
+CTX.moveTo(600, 130);
+CTX.lineTo(700, 130);
 CTX.fill();
 CTX.stroke();
+
+//Nuvem3
+CTX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.moveTo(900, 90);
+CTX.lineTo(775, 90);
+CTX.fill();
+CTX.stroke();
+
+//Nuvem4
+CTX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.moveTo(50, 130);
+CTX.lineTo(150, 130);
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.arc(80, 130, 30, 0,  Math.PI, true);
+CTX.fillStyle='#0c003b';
+CTX.fill();
+CTX.stroke();
+
+TX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.arc(250, 130, 20, 0,  Math.PI, true);
+CTX.fillStyle='#0c003b';
+CTX.fill();
+CTX.stroke();
+
 
 
