@@ -58,6 +58,93 @@ CTX.fillStyle='#6B8E23';
 CTX.fill();
 CTX.stroke();
 
+//Árvore 4
+CTX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.moveTo(867, 405);
+CTX.lineTo(867, 465);
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(867, 400, 40, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(867, 350, 33, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(867, 310, 28, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
+//Árvore 5
+CTX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.moveTo(800, 405);
+CTX.lineTo(800, 465);
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(800, 415, 38, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(800, 365, 31, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(800, 325, 26, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
+//Árvore 6
+CTX.strokeStyle='#0c003b';
+CTX.beginPath();
+CTX.moveTo(200, 405);
+CTX.lineTo(200, 465);
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(200, 400, 40, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(200, 350, 33, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#6B8E23';
+CTX.beginPath();
+CTX.arc(200, 310, 28, 0, Math.PI * 2);
+CTX.fillStyle='#6B8E23';
+CTX.fill();
+CTX.stroke();
+
 //Nuvem
 CTX.strokeStyle='#797BB9';
 CTX.beginPath();
@@ -175,6 +262,61 @@ CTX.fillStyle='#463e6f';
 CTX.fill();
 CTX.stroke();
 
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(125, 535, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(250, 560, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(275, 560, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(473, 590, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(550, 564, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(575, 564, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(800, 525, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#463e6f';
+CTX.beginPath();
+CTX.arc(875, 525, 10, 0, Math.PI, true);
+CTX.fillStyle='#463e6f';
+CTX.fill();
+CTX.stroke();
 
 
 
