@@ -318,5 +318,53 @@ CTX.fillStyle='#463e6f';
 CTX.fill();
 CTX.stroke();
 
+//Estrelas
+
+CTX.strokeStyle='#F5F5F5';
+CTX.beginPath();
+CTX.arc(200, 100, 1, 0, Math.PI * 2);
+CTX.fillStyle='#F8F8FF';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#F5F5F5';
+CTX.beginPath();
+CTX.arc(52, 30, 1, 0, Math.PI * 2);
+CTX.fillStyle='#F8F8FF';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#F5F5F5';
+CTX.beginPath();
+CTX.arc(200, 200, 1, 0, Math.PI * 2);
+CTX.fillStyle='#F8F8FF';
+CTX.fill();
+CTX.stroke();
+
+
+
+//3 Marias
+CTX.strokeStyle='#F5F5F5';
+CTX.beginPath();
+CTX.arc(600, 50, 2, 0, Math.PI * 2);
+CTX.fillStyle='#F8F8FF';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#F5F5F5';
+CTX.beginPath();
+CTX.arc(624, 70, 2, 0, Math.PI * 2);
+CTX.fillStyle='#F8F8FF';
+CTX.fill();
+CTX.stroke();
+
+CTX.strokeStyle='#F5F5F5';
+CTX.beginPath();
+CTX.arc(647, 90, 2, 0, Math.PI * 2);
+CTX.fillStyle='#F8F8FF';
+CTX.fill();
+CTX.stroke();
+
+
 
 
