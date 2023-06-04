@@ -24,6 +24,8 @@ Foi adicionada uma borda de 4px e uma cor de fundo.
 
 ° As cores foram adicionadas com um FillStyle e Fill ou StrokeStyle; E o efeito de sombra foi aplicado com ShadowColor e ShadowBlur.
 
+<img src="img/image.png"/>
+
 
 
 
