@@ -22,9 +22,9 @@ Foi adicionada uma borda de 4px e uma cor de fundo.
 
 ° "Estrelas" --> beginPath para criar o objeto; O arc para definir a posição e tamanho.
 
-° As cores foram adicionadas com um FillStyle e Fill ou StrokeStyle; E o efeito de sombra foi aplicado com ShadowColor e ShadowBlur.
+° As cores foram adicionadas com um FillStyle e Fill ou StrokeStyle; E o efeito de sombra foi aplicado com ShadowColor e ShadowBlur; Shadowtransparent para deixar apenas um objeto escolhido com os efeitos do brilho
 
-<img src="img/image.png"/>
+<img src="img/resultado.jng"/>
 
 
 

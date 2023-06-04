@@ -14,6 +14,9 @@ CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
+CTX.shadowColor = "transparent";
+CTX.shadowBlur = 0;
+
 //Árvore 1
 CTX.strokeStyle='#0c003b';
 CTX.lineWidth=3;
@@ -22,6 +25,7 @@ CTX.moveTo(50, 350);
 CTX.lineTo(50, 465);
 CTX.fill();
 CTX.stroke();
+
 
 
 CTX.strokeStyle='#6B8E23';
@@ -323,144 +327,144 @@ CTX.stroke();
 
 //Estrelas
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(200, 100, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(52, 30, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(200, 200, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(35, 250, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(50, 275, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(475, 300, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(525, 350, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(490, 200, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(300, 30, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(450, 35, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(700, 250, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(875, 150, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(915, 85, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(825, 45, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(700, 60, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(300, 250, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(950, 250, 1, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
 //3 Marias
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(600, 50, 2, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(624, 70, 2, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
-CTX.strokeStyle='#797BB9';
+CTX.strokeStyle='#F8F8FF';
 CTX.beginPath();
 CTX.arc(647, 90, 2, 0, Math.PI * 2);
-CTX.fillStyle='#797BB9';
+CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
 
