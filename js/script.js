@@ -442,8 +442,6 @@ CTX.fillStyle='#797BB9';
 CTX.fill();
 CTX.stroke();
 
-
-
 //3 Marias
 CTX.strokeStyle='#797BB9';
 CTX.beginPath();
