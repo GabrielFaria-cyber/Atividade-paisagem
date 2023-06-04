@@ -4,6 +4,8 @@ const CTX=canvas.getContext('2d');
 CTX.fillStyle='#0c003b';
 CTX.fillRect(0, 465, 1000, 165);
 
+CTX.shadowColor = '#fffbb0'
+CTX.shadowBlur = 200;
 //Lua
 CTX.strokeStyle='#F5F5F5';
 CTX.beginPath();
@@ -11,8 +13,6 @@ CTX.arc(485, 100, 50, 0, Math.PI * 2);
 CTX.fillStyle='#F8F8FF';
 CTX.fill();
 CTX.stroke();
-CTX.shadowColor = '#fffbb0'
-CTX.shadowBlur = 25;
 
 //Árvore 1
 CTX.strokeStyle='#0c003b';
